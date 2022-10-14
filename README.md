@@ -1,1 +1,1 @@
-博客
+# [博客](https://serein404.github.io)
